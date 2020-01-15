@@ -2,7 +2,7 @@
 Logit Test 2
 ************
 
-Login test for Deeper Systems interview.
+Logic test for Deeper Systems interview.
 
 Pre-requisites
 ==============
